@@ -1,5 +1,5 @@
 package com.seleniumexpress.sm.api;
-
+//This is student class
 public class Student {
 	private int id;
 	private String name;
